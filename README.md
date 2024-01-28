@@ -47,7 +47,7 @@ Asegúrate de tener instaladas las bibliotecas necesarias ejecutando los siguien
 
 # Dashboard de Delitos CABA realizado en power bi
 
-![Delitos CABA](/img/h3Delitos.png)
+![Delitos CABA](/img/powerbi.png)
 
 
 
