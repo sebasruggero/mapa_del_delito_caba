@@ -1,6 +1,6 @@
 # Delitos CABA 2016-2021 con Análisis Hexagonal (H3)
 
-![Delitos CABA](/img/delitosH3.png)
+![Delitos CABA](/img/h3Delitos.png)
 
 Este proyecto utiliza la biblioteca H3 para realizar análisis hexagonales sobre los delitos en la Ciudad Autónoma de Buenos Aires. El análisis se basa en datos recopilados de 2016 a 2021.
 
